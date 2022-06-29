@@ -1,0 +1,54 @@
+h1{
+    font-size: 50px;
+    color: rgb(214, 22, 22);
+}
+
+h3{
+    color: orangered;
+    font-size: 35px;
+    font-style: italic;
+}
+
+.C1{
+    font-size: 27px;
+    color: darkred;
+}
+
+.B1{
+    background-color: yellow;
+}
+
+.D1{
+    text-decoration: line-through;
+}
+
+.U1{
+    text-decoration-line: underline;
+}
+
+.I1{
+    font-style: italic;
+}
+
+.B2{
+    font-weight: bold;
+}
+
+.S1{
+    
+    letter-spacing: 5px;
+    font-size: ;
+}
+
+p{
+    font-size: 27px;
+    color: rgb(161, 104, 29);
+}
+
+a{
+    background-color: yellow;
+    color: rgb(196, 37, 9);
+    text-decoration-line: none;
+    font-size: 27px;
+    font-style: italic;
+}
